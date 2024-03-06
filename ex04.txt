@@ -1,0 +1,17 @@
+A princípio deixaria todos os interruptores desligados.
+
+
+Iria à sala das lâmpadas e ligaria o primeiro interruptor por alguns minutos.
+
+Em seguida, desligaria o primeiro interruptor e ligaria o segundo interruptor.
+
+Se a lâmpada estiver acesa, então o primeiro interruptor controla essa lâmpada.
+
+Se a lâmpada estiver apagada, então o segundo interruptor controla essa lâmpada.
+
+Agora, você sabendo qual interruptor controla uma das lâmpadas.
+Deixaria apenas o interruptor que controla a lâmpada identificada ligado.
+
+Ligaria um dos interruptores restantes e entre na sala das lâmpadas.
+Se a lâmpada estiver acesa, então este interruptor controla a lâmpada que ainda não foi identificada.
+Se a lâmpada estiver apagada, então o interruptor restante controla a lâmpada.
